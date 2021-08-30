@@ -1,3 +1,5 @@
 Merhaba
+ben düzelttim
+ikinci satır 
 remote masterdan gelen güncelleme 
 remote masterdan ikinci satır
